@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navanee2020
+- 👋 Hi, I’m Navaneethakrishnan P
 - 👀 I’m interested in building Python and Java based projects
 - 🌱 I’m currently learning Java  
 - 💞️ I’m looking to collaborate on Java Developers
